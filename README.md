@@ -1,4 +1,4 @@
-# Expenses for a couple residing in Barcelona during 2022-2024 period
+# Living expenses for a couple residing in Barcelona during 2022-2024 period
 
 ### First power bi visualization of living expenses in Barcelona, Spain.
 
